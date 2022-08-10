@@ -1,0 +1,10 @@
+.menu {
+    width:80%;
+    background-color: burlywood; /* we use this property to change the background color of an element*/
+    margin:auto;
+  }
+  
+h1,h2,p{
+    text-align:center; /* we use this property to center a text*/
+}
+
