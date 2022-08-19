@@ -68,3 +68,8 @@ footer{
 a{
     color:black;
 }
+
+/* the link change color when a user has visited the link. */
+a:visited{
+    color:grey;
+}

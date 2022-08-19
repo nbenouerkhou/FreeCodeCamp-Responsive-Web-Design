@@ -22,6 +22,7 @@ h1, h2 {
 
 h1 {
     font-size: 40px;
+    margin:0; /*we use margin 0 to h1 element to remove all the top margin*/
 }
   
 h2 {
@@ -68,3 +69,29 @@ footer{
 a{
     color:black;
 }
+
+/* the link change color when a user has visited the link. */
+a:visited{
+    color:grey;
+}
+
+/* the link change the color when a user hovers over it. */
+a:hover{
+    color:brown;
+}
+
+/* the linke change the color when a user clicked on */
+a:active{
+    color:white;
+}
+
+.adress{
+    margin-bottom: 5px;
+}
+
+/* to center an image we use display block and margin auto */
+img{
+    display:block;
+    margin:auto;
+    margin-top:-25; /*negative margin*/
+  }
