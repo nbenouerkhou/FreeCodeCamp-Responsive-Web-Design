@@ -1,0 +1,9 @@
+.green {
+    background-color: #007F00;
+  }
+  /* la premiere paire represente le rouge 00 la deuxieme paire represente le vert 7F et la troisieme paire represente le blue 00 */
+
+  .blue {
+    background-color: hsl(240, 100%, 50%);
+  }
+  /*hsl hue saturation lightness  */
